@@ -1,0 +1,146 @@
+
+     
+
+        .leftcard{
+            margin-top: 5%;
+        }
+        .leftcard .card{
+            background-color: red;
+        }
+        .leftcard .img-fluid{
+            margin-left: 10%;
+            margin-top: 20%;
+            margin-bottom: 20%;
+        }
+        .card-body{
+            color: white;
+            margin-left: 3%;
+            margin-top: 10%;
+        }
+        .btn-outline-secondary{
+          color: white;
+          border-radius: 20%;
+          border-color: white;
+        }
+        .col-5 .card{
+          width: 60%;
+          position: relative;
+        }
+        .col-5 .card button{
+            background-color: black;
+          
+        }
+        .col-5 .card-history{
+            width: 40%;
+            /* margin: 0 auto; */
+            position: absolute; 
+bottom: 10%;
+left: 30%;
+
+        }
+        .btn-primary{
+        background-color: orangered !important;
+        border-color: orangered;
+        border-radius: 30%;
+        }
+        .card-title{
+            color: orangered;
+        }
+        /* .view-all-card{
+            position: absolute;
+            top: 5%;
+            left: -35%;
+        } */
+        .btn-secondary{
+            background-color: white !important;
+            color: black;
+        }
+        #after-Joker .btn-outline-danger{
+            border: 1px solid rgb(160, 139, 139,.5);
+            color: black;
+            margin: 2%;
+            border-top-left-radius:20% ;
+            border-bottom-left-radius: 20%;
+            border-top-right-radius:20% ;
+            border-bottom-right-radius: 20%;
+        }
+        .card-img-top {
+            width: 100%;
+            height: 25rem;
+            object-fit: contain;
+        }
+        .each-movie .fa-solid{
+             color: orangered;
+        }
+        .each-movie h3{
+            color: red;
+       }
+       .browse-more .btn-outline-secondary {
+        color: red;
+      
+        border-radius: 10%;
+        border-color: red;
+        padding: 2% 10% 2% 10%;
+    }
+    .slid .carousel-inner{
+       height: 40rem;
+       width: 40rem;
+    }
+    .after-browes .card-img-top {
+        width: 100%;
+        padding: 1%;
+        /* height: 50%; */
+        /* height: 25rem; */
+        object-fit: cover;
+        /* position: absolute; */
+    }
+    .img-btn{
+        position: relative;
+    }
+    .title-btn{
+        position: absolute;
+        color: white;
+        top: 50%;
+    }
+    .title-btn>h2{
+      width: 60%;
+        color: white;
+       
+    }
+    .title-btn>button{
+        /* width: 60%; */
+          background-color: red;
+          border-color: red;
+          border-radius: 10%;
+        
+         
+          
+      }
+      .inside-latter{
+          width: 50%;
+          margin: 0 auto;
+      }
+      .join-news-latter{
+          margin-top: 5%;
+          background-color:rgb(36, 12, 59) ;
+          padding: 10% 2% 10% 0%;
+          color: white;
+      }
+      .footr{
+          margin-top: 2%;
+          padding-top: 2%;
+          background-color: cornsilk;
+      }
+      .footr li{
+          list-style: none;
+      }
+      .footr .fa-solid{
+          color: red;
+          padding: 2% 5% 5% 5%;
+          
+      }
+     
+
+
+    
+   
